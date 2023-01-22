@@ -8,8 +8,14 @@ project created at the end of the course to serve in Developing Cloud Applicatio
 
 ## Technology
 
-- Nodejs
+- Cloud Applications
+- HTTP
+- IBM Cloud
+- JavaScript
+- JSON
+- Node.js
 - React
+- Web Development
 - Git e Github
 
 ## contact
